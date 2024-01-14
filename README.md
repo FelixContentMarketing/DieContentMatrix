@@ -14,7 +14,7 @@ Logge dich in dein Konto ein und öffne eine neue Bash-Konsole über den *Consol
 Klone dein GitHub-Repository mit dem Befehl `git clone` gefolgt von der URL deines Repos:
 
 ```
-git clone https://github.com/admin-youno/aiti.git
+git clone https://github.com/FelixContentMarketing/DieContentMatrix.git
 ```
 
 **Schritt 4: Virtuelle Umgebung erstellen**<br>
